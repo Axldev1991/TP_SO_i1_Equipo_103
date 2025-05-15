@@ -1,3 +1,6 @@
 Participante ALFA: Axel Castellano Gutiérrez
 Participante BETA: Franco Espósito
 PArticipante GAMMA: Paulina Castrataro
+
+a) Si, veo las modificaciones en los archivos que subieron BETA y GAMMA
+b) Si, he subido ambos archivos (datos.txt y respuesta_I1_Equipo103.txt y ambos participantes lo vieron, haciendo un pull primero)
