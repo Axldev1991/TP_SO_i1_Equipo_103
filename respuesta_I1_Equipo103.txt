@@ -5,4 +5,6 @@ PArticipante GAMMA: Paulina Castrataro
 
 
 Borré todas las respuestas
+c- Si, si beta agrega un archivo, los demás integrantes lo ven.
+d- Nos comunicamos mediante discord, compartiendo pantalla y ayudándonos entre nosotros a resolver las situaciones dadas, utilizando la solapa "Projects" para ver el estado del TP. 
 e) La mejor forma es actualizando el proyecto, asi sabemos que hizo cada uno
