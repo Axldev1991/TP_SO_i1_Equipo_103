@@ -3,8 +3,8 @@ Participante BETA: Franco Espósito
 PArticipante GAMMA: Paulina Castrataro
 
 
-
-Borré todas las respuestas
+a) Si, veo las modificaciones en los archivos que subieron BETA y GAMMA
+b) Si, he subido ambos archivos (datos.txt y respuesta_I1_Equipo103.txt y ambos participantes lo vieron, haciendo un pull primero)
 c- Si, si beta agrega un archivo, los demás integrantes lo ven.
 d- Nos comunicamos mediante discord, compartiendo pantalla y ayudándonos entre nosotros a resolver las situaciones dadas, utilizando la solapa "Projects" para ver el estado del TP. 
 e) La mejor forma es actualizando el proyecto, asi sabemos que hizo cada uno
